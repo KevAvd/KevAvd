@@ -2,7 +2,6 @@
 
 
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
-- 🌱 I’m currently learning *SQL*, *C#* and *PHP*
 - 🔭 I love devlopment and programmation
   
 ### Languages that I know :
