@@ -13,6 +13,3 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
   <img alt="PHP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
 </p>
-
-### Stats : 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevAvd&langs_count=5&theme=tokyonight)]()
